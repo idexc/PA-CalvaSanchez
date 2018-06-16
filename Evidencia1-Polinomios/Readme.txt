@@ -1,4 +1,4 @@
-Evidencia Número 3 para la materia de Programación Avanzada
+Evidencia Número 1 para la materia de Programación Avanzada
 Alumno: Fernando Alonso Calva Sánchez
 
 Descripción: El programa realiza a través de terminal diversas operaciones con polinomios, para lo cual se cuenta con los siguientes comandos:
